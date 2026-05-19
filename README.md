@@ -41,7 +41,7 @@ The application provides a clean interactive UI and real-time salary prediction 
 ```text id="36k18o"
 AI-Salary-Predictor/
 │
-├── app.py
+├── notebook.ipynb
 ├── requirements.txt
 ├── README.md
 │
