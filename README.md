@@ -44,9 +44,7 @@ AI-Salary-Predictor/
 ├── notebook.ipynb
 ├── requirements.txt
 ├── README.md
-│
-└── assets/
-    └── preview.png
+│ __ preview.png
 ```
 
 ---
