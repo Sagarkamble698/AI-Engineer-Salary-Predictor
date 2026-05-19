@@ -1,0 +1,6 @@
+Tech Stack
+Python
+Gradio
+Scikit-learn
+Pandas
+NumPy
